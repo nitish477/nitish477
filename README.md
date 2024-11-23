@@ -1,4 +1,4 @@
-<img alt="profile" width="900" src="https://i.pinimg.com/originals/c9/f7/16/c9f7169617bb9400cf5bdaaf951a90ef.gif"/>
+
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">Full-Stack Developer</h3>
